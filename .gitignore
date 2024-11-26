@@ -1,0 +1,12 @@
+*.txt
+*.js
+*.html
+script.css
+
+!file31.txt
+!file32.txt
+*.py
+
+*.java
+!file1.java
+!file2.java
