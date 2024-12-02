@@ -1,1 +1,1 @@
-email : manjutech@solution.com
+email : manju_info_tech@solution.com
