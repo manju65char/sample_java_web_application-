@@ -11,3 +11,8 @@ config:
   env_name: dev
   job_name : mobile_api_feature2
   path : /var/log/mobile_api.log
+
+  job : system 3
+  env_name: dev
+  job_name : admin_api_feature2
+  path : /var/log/admin_api.log
