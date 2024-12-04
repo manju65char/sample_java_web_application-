@@ -16,3 +16,5 @@ config:
   env_name: dev
   job_name : admin_api_feature2
   path : /var/log/admin_api.log
+
+  configured the code to fix the payment issue 
