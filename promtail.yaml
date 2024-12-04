@@ -1,3 +1,8 @@
 logs config file
 config:
   client server : www.loki.com
+
+  job : system 1 
+  env_name: dev 
+  job_name : user_feature2
+  path : /var/log/user.log
