@@ -6,3 +6,8 @@ config:
   env_name: dev 
   job_name : user_feature2
   path : /var/log/user.log
+
+  job : system 2
+  env_name: dev
+  job_name : mobile_api_feature2
+  path : /var/log/mobile_api.log
